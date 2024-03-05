@@ -1,8 +1,14 @@
 body{
+  background: url(Background.image.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
   font-family: sans-serif;
   background-color: rgb(224, 221, 221);
   display: flex;
   min-height: 100vh;
+  margin: 0;
 }
 h1{
   color: rgb(255, 242, 2);
